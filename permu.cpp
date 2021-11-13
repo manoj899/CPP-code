@@ -97,18 +97,7 @@ int main(int argc, char** argv)
 {
     bool boxes[5];
     printPerm(1, boxes, "", 2, 5);
-    // printPerm(1, 0, "", 2, 4);
-    // int arr[] = {10, 20, 30, 40, 50, 60, 70};
-    // int tar = 70;
-    // vector<vector<int>>* res = gts(arr, tar, 0, 7);
-    // for(int i = 0; i < res->size(); i++)
-    // {
-    //     for(int j = 0; j < (*res)[i].size(); j++)
-    //     {
-    //         cout << (*res)[i][j] << " ";
-    //     }
-    //     cout << endl;
-    // }
+
 }
 
 
