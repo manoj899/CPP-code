@@ -72,4 +72,5 @@ int main(int argv,char** argc){
     cout<<p<<endl;
     int res=power(2,0);
     cout<<res<<endl;
+    //,everything working fine
 }
