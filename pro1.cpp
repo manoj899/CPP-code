@@ -65,11 +65,11 @@ int poh(int s,int h,int d){
 
 int main(int argv,char** argc){
 
-    // pd(5);
-    // pi(5);
-    // pzz(3);
-    // int p=factorial(5);
-    // cout<<p<<endl;
+    pd(5);
+    pi(5);
+    pzz(3);
+    int p=factorial(5);
+    cout<<p<<endl;
     int res=power(2,0);
     cout<<res<<endl;
 }
