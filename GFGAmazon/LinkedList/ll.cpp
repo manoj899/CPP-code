@@ -223,7 +223,7 @@ class QNode{
 
     QNode(int x){
         this->data=x;
-        next == NULL;
+        next = NULL;
     }
 
 };
